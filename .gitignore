@@ -28,3 +28,4 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
+SCA_board_HARD/PCB/ibom.config.ini
