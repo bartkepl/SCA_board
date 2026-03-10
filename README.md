@@ -1,7 +1,7 @@
 # SCA (Standalone Connector Adapter)
 Standalone Connector Adapter for other 3U eurocards. Converts DIN41612 connector to USB, USB(UART converter), ETHERNET and RS485
 
-![Standalone Connector Adapter board](Media/SCA_board_front.png)
+![Standalone Connector Adapter board](media/SCA_board_angle.png)
 
 ---
 ## Status : WIP
